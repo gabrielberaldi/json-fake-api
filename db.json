@@ -1,0 +1,11 @@
+{
+  clientes: [
+  {
+  "id":0,
+  "nomeFantasia": "Btor",
+  "razaoSocial": "Btor Soluções Computacionais",
+  "dataCadastro": "29/10/2019"
+  "observacao": "Teste"
+  }
+  ]
+}
